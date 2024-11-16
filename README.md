@@ -63,9 +63,9 @@
 ### Top Creatures
 
 
-<a href="#">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=said7388&repo=developer-portfolio&theme=algolia](https://github.com/FelixVibeke/About-me/blob/main/public/readme/11.png)" />
+<a href="https://tellimer.com/">
+  <img align="center" width=45% src="https://github.com/FelixVibeke/About-me/blob/main/public/readme/11.png" />
 </a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=said7388&repo=Express-Postgres-blog&theme=algolia" />
+<a href="https://anatha.io/](https://nexthink.com/">
+  <img align="center" width=45% src="https://github.com/FelixVibeke/About-me/blob/main/public/readme/44.png" />
 </a>
